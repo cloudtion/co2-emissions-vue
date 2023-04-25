@@ -3,7 +3,7 @@
   import Section from "@/components/Section.vue";
   import TitleHr from "@/components/TitleHr.vue";
   import CountryPercentageChart from "@/components/CountryPercentageChart.vue";
-  import EmissionsOverTimeVue from "@/components/EmissionsOverTimeChart.vue.js";
+  import EmissionsOverTimeVue from "@/components/EmissionsOverTimeChart.vue";
   import FooterImage from "@/assets/footer.svg";
   import ViewOnGithubButton from "@/components/ViewOnGithubButton.vue";
 </script>
